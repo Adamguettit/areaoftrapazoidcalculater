@@ -7,12 +7,6 @@
 
 display.setDefault( "background", 0.2, 0.2, 0.2 )
 
---all the variables
-
-local lengthOffirstbase
-local lengthOfsecondbase
-local lengthOfheight
-local areaOfTrapzoid
 
 -- the text boxes
 
